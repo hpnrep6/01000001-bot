@@ -1,4 +1,5 @@
-const {trigger, token} = require('./config.json');
+const token = //token
+cont trigger = "$";
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
